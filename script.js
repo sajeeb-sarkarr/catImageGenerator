@@ -7,7 +7,7 @@ document.addEventListener("mousemove", (e) => {
     customCursor.style.top = e.clientY + "px";
 });
 
-function fetchingCatImage() {
+function fetchingImage() {
     const apiKey = 'live_LeSuArGyMeVuHrQvvK1RQ2DIz6XaqIs6f6o7g7rXJOH7hvaCathfYqGGIBmQl4lz';
     const apiUrl = "https://api.thecatapi.com/v1/images/search?q=British%20Longhair";
 
