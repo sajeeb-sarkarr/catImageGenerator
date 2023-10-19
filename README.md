@@ -1,1 +1,1 @@
-# Learning Git
+# Cat Image generator using CAT API
